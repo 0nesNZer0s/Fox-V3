@@ -142,7 +142,7 @@ class PlantTycoon(commands.Cog):
                 "damage": 25,
             },
             "timers": {"degradation": 1, "completion": 1, "notification": 5},
-            "degradation": {"base_degradation": 1.5},
+            "degradation": {"base_degradation": 1.25},
             "notification": {"max_health": 50},
         }
 
