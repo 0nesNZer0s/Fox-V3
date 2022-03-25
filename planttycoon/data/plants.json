@@ -10,7 +10,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Dandelion",
@@ -22,7 +22,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Daisy",
@@ -34,7 +34,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Chrysanthemum",
@@ -46,7 +46,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Pansy",
@@ -58,7 +58,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Lavender",
@@ -70,7 +70,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Lily",
@@ -82,7 +82,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Petunia",
@@ -94,7 +94,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Sunflower",
@@ -106,7 +106,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Daffodil",
@@ -118,7 +118,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Clover",
@@ -130,7 +130,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Tulip",
@@ -142,7 +142,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Rose",
@@ -154,7 +154,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Aster",
@@ -166,7 +166,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Aloe Vera",
@@ -178,7 +178,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Orchid",
@@ -190,7 +190,7 @@
       "degradation": 0.625,
       "threshold": 110,
       "badge": "Flower Power",
-      "reward": 600
+      "reward": 30000
     },
     {
       "name": "Dragon Fruit Plant",
@@ -202,7 +202,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Mango Tree",
@@ -214,7 +214,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Lychee Tree",
@@ -226,7 +226,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Durian Tree",
@@ -238,7 +238,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Fig Tree",
@@ -250,7 +250,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Jack Fruit Tree",
@@ -262,7 +262,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Prickly Pear Plant",
@@ -274,7 +274,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Pineapple Plant",
@@ -286,7 +286,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Citron Tree",
@@ -298,7 +298,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Cherimoya Tree",
@@ -310,7 +310,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Mangosteen Tree",
@@ -322,7 +322,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Guava Tree",
@@ -334,7 +334,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Orange Tree",
@@ -346,7 +346,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Apple Tree",
@@ -358,7 +358,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Sapodilla Tree",
@@ -370,7 +370,7 @@
       "degradation": 0.75,
       "threshold": 110,
       "badge": "Fruit Brute",
-      "reward": 1200
+      "reward": 60000
     },
     {
       "name": "Franklin Tree",
@@ -382,7 +382,7 @@
       "degradation": 1.5,
       "threshold": 110,
       "badge": "Sporadic",
-      "reward": 2400
+      "reward": 120000
     },
     {
       "name": "Parrot's Beak",
@@ -394,7 +394,7 @@
       "degradation": 1.5,
       "threshold": 110,
       "badge": "Sporadic",
-      "reward": 2400
+      "reward": 120000
     },
     {
       "name": "Koki'o",
@@ -406,7 +406,7 @@
       "degradation": 1.5,
       "threshold": 110,
       "badge": "Sporadic",
-      "reward": 2400
+      "reward": 120000
     },
     {
       "name": "Jade Vine",
@@ -418,7 +418,7 @@
       "degradation": 1.5,
       "threshold": 110,
       "badge": "Sporadic",
-      "reward": 2400
+      "reward": 120000
     },
     {
       "name": "Venus Fly Trap",
@@ -430,7 +430,7 @@
       "degradation": 1.5,
       "threshold": 110,
       "badge": "Sporadic",
-      "reward": 2400
+      "reward": 120000
     },
     {
       "name": "Chocolate Cosmos",
@@ -442,7 +442,7 @@
       "degradation": 1.5,
       "threshold": 110,
       "badge": "Sporadic",
-      "reward": 2400
+      "reward": 120000
     },
     {
       "name": "Pizza Plant",
@@ -454,7 +454,7 @@
       "degradation": 2,
       "threshold": 110,
       "badge": "Odd-pod",
-      "reward": 3600
+      "reward": 180000
     },
     {
       "name": "Piranha Plant",
@@ -466,7 +466,7 @@
       "degradation": 2,
       "threshold": 110,
       "badge": "Odd-pod",
-      "reward": 3600
+      "reward": 180000
     },
     {
       "name": "Peashooter",
@@ -478,7 +478,7 @@
       "degradation": 2,
       "threshold": 110,
       "badge": "Odd-pod",
-      "reward": 3600
+      "reward": 180000
     },
     {
       "name": "Eldergleam Tree",
@@ -490,7 +490,7 @@
       "degradation": 2.5,
       "threshold": 110,
       "badge": "Greenfingers",
-      "reward": 5400
+      "reward": 270000
     },
     {
       "name": "Pikmin",
@@ -502,7 +502,7 @@
       "degradation": 2.5,
       "threshold": 110,
       "badge": "Greenfingers",
-      "reward": 5400
+      "reward": 270000
     },
     {
       "name": "Flora Colossus",
@@ -514,7 +514,7 @@
       "degradation": 2.5,
       "threshold": 110,
       "badge": "Greenfingers",
-      "reward": 5400
+      "reward": 270000
     },
     {
       "name": "Plantera Bulb",
@@ -526,7 +526,7 @@
       "degradation": 2.5,
       "threshold": 110,
       "badge": "Greenfingers",
-      "reward": 5400
+      "reward": 270000
     },
     {
       "name": "Chorus Tree",
@@ -538,7 +538,7 @@
       "degradation": 2.5,
       "threshold": 110,
       "badge": "Greenfingers",
-      "reward": 5400
+      "reward": 270000
     },
     {
       "name": "Money Tree",
@@ -550,7 +550,7 @@
       "degradation": 8,
       "threshold": 110,
       "badge": "Nobel Peas Prize",
-      "reward": 10800
+      "reward": 540000
     },
     {
       "name": "Truffula Tree",
@@ -562,7 +562,7 @@
       "degradation": 8,
       "threshold": 110,
       "badge": "Nobel Peas Prize",
-      "reward": 10800
+      "reward": 540000
     },
     {
       "name": "Whomping Willow",
@@ -574,7 +574,7 @@
       "degradation": 8,
       "threshold": 110,
       "badge": "Nobel Peas Prize",
-      "reward": 10800
+      "reward": 540000
     }
   ],
   "event": {
@@ -588,7 +588,7 @@
       "degradation": 9,
       "threshold": 110,
       "badge": "Annualsary",
-      "reward": 21600
+      "reward": 1080000
     },
     "February": {
       "name": "Chocolate Rose",
@@ -600,7 +600,7 @@
       "degradation": 9,
       "threshold": 110,
       "badge": "Annualsary",
-      "reward": 21600
+      "reward": 1080000
     },
     "March": {
       "name": "Shamrock",
@@ -612,7 +612,7 @@
       "degradation": 9,
       "threshold": 110,
       "badge": "Annualsary",
-      "reward": 21600
+      "reward": 1080000
     },
     "April": {
       "name": "Easter Egg Eggplant",
@@ -624,7 +624,7 @@
       "degradation": 9,
       "threshold": 110,
       "badge": "Annualsary",
-      "reward": 21600
+      "reward": 1080000
     },
     "October": {
       "name": "Jack O' Lantern",
@@ -636,7 +636,7 @@
       "degradation": 9,
       "threshold": 110,
       "badge": "Annualsary",
-      "reward": 21600
+      "reward": 1080000
     },
     "November": {
       "name": "Mayflower",
@@ -648,7 +648,7 @@
       "degradation": 9,
       "threshold": 110,
       "badge": "Annualsary",
-      "reward": 21600
+      "reward": 1080000
     },
     "December": {
       "name": "Holly",
@@ -660,7 +660,7 @@
       "degradation": 9,
       "threshold": 110,
       "badge": "Annualsary",
-      "reward": 21600
+      "reward": 1080000
     }
   }
 }
